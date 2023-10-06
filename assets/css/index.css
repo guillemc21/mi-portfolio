@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'AR One Sans', sans-serif;
 }
 body {
-    font-size: clamp(0.7rem, 2vw, 1.5rem);
+    font-size: clamp(0.7rem, 2vw, 1.4rem);
+    
 }
