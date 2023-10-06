@@ -3,3 +3,6 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-size: clamp(3rem, 9vw, 6rem);
+}
