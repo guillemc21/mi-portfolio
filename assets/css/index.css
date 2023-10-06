@@ -4,5 +4,5 @@
     padding: 0;
 }
 body {
-    font-size: clamp(3rem, 9vw, 6rem);
+    font-size: clamp(0.4rem, 2vw, 1.5rem);
 }
